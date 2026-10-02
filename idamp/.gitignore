@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+audit/*.db
+data/landing/*
+data/bronze_layer/*
+data/silver_layer/*
+data/gold_layer/*
+reports/*
+sttm_history/*
